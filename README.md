@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/eclo-cover.gif" alt="Eclo — Think with your hands." width="800">
+  <img src="eclo-cover.gif" alt="Eclo — Think with your hands." width="800">
 </p>
 
 # Eclo — Think with your hands.
