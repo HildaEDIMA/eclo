@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="docs/eclo-cover.gif" alt="Eclo — Think with your hands." width="800">
+</p>
+
+# Eclo — Think with your hands.
+
+Look at anything. Eclo turns it into a model you can touch and test, so you learn, plan and decide faster.
+
+**Meta VR Start Developer Competition 2026 · Track: Productivity · Division: New Experience**
+
+
+
 # IWSDK App
 
 This project uses `iwsdk.config.json` for declarative scene, asset, component,
